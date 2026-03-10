@@ -99,10 +99,6 @@ export default function LoginPage() {
             </button>
           </form>
         </div>
-
-        <p className="text-center text-xs text-gray-700 mt-5">
-          Default: <span className="text-gray-500 font-mono">admin / restaurant2024</span>
-        </p>
       </div>
     </div>
   )
